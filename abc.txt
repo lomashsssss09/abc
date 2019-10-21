@@ -1,17 +1,4 @@
-asfa
-<<<<<<< .merge_file_MnYbnJ
-
 NE FIEL ADDED asfsdsdgdsfbgsdgskn
 
 
 
-
-this is created by noob
-
-
-I am doing this as a master
-
-=======
-this is new file
-new line by Loki
->>>>>>> .merge_file_VO6iZM
